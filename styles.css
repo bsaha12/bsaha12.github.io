@@ -155,9 +155,9 @@
   text-decoration: none;
   list-style: none;
 }
-a:visited {
-  /* color: #000;  */
-}
+/* a:visited {
+  color: #000; 
+} */
 html {
   scroll-behavior: smooth;
 }
@@ -514,9 +514,9 @@ section .title::after {
   
 
 } */
-.projects .carousel .project-card:hover {
-  /* background: rgb(78, 89, 233); */
-}
+/* .projects .carousel .project-card:hover {
+  background: rgb(78, 89, 233);
+} */
 /* .projects .carousel .project-card:hover .box{
    transform: scale(1.05);
 } */
@@ -867,6 +867,10 @@ section .title::after {
   }
   .react-activity-calendar {
     display: none;
+  }
+  .projects .project-card {
+    padding: 0px;
+    padding-bottom: 10px;
   }
 }
 
