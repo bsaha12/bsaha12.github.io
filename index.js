@@ -60,12 +60,12 @@ $(document).ready(function () {
 
 document.getElementById("resume-link-1").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1rwiAAzj1hpdtJL3S3yXAZq1JT0fXWwB4/view?usp=sharing"
+    "https://drive.google.com/file/d/1eIWjEVCDbe8BfqRUsVPURTG9syV3zZHL/view?usp=sharing"
   );
 };
 
 document.getElementById("resume-link-2").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1rwiAAzj1hpdtJL3S3yXAZq1JT0fXWwB4/view?usp=sharing"
+    "https://drive.google.com/file/d/1eIWjEVCDbe8BfqRUsVPURTG9syV3zZHL/view?usp=sharing"
   );
 };
